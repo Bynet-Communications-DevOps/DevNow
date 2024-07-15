@@ -9,7 +9,7 @@
 
 ### 2. Clone and Run JavaScript Project - 90 minutes
 1. Clone a remote repository on GitHub containing JavaScript source code.
-2. Understand how to run the script locally.
+2. Understand how to run the webpage locally.
 
 ### 3. Verify Script Output
 1. Check that the script runs and the output matches the description provided in the task.
