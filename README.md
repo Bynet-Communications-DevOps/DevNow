@@ -1,30 +1,34 @@
 # DevNow
-DevNow Hackathon Repository 
+# DevNow Hackathon Repository
 
+## Tasks
 
-1> Create 3 folders - App, Dev, Images - 45 minutes
-Inside each folder create a file named  DevNow.txt  and insert some text into it
+### 1. Setup Folders and Files - 45 minutes
+1. Create three folders: `App`, `Dev`, `Images`.
+2. Inside each folder, create a file named `DevNow.txt` and insert some text into it.
 
+### 2. Clone and Run JavaScript Project - 90 minutes
+1. Clone a remote repository on GitHub containing JavaScript source code.
+2. Understand how to run the script locally.
 
--Clone a remote repo residing in github containing javascript source code - 90 minutes
-Understand how to run the script locally
+### 3. Verify Script Output
+1. Check that the script runs and the output matches the description provided in the task.
 
+### 4. Modify and Commit Changes - 45 minutes
+1. Modify a local file named `TeamMembers.txt`.
+2. Commit the changes locally.
+3. Push the changes to the origin.
 
--Check that script runs and output is as described in the task 
+### 5. Update Output Message
+1. Change the output message to “I am a part of dev.now”.
+2. Repeat steps 2.1 and 2.2 with the updated code.
 
--Change a local file named TeamMembers.txt and commit the changes locally and push to origin
+### Bonus Task
+1. Modify the output to retrieve data from a local file or make an API call to Chuck Norris.
 
--Change the output message to “i am a part of dev.now” - 45 minutes
+## Dependencies
 
-Do 2.b 2.c again with the changes code
-
-Bonus: make a change to the output to retrieve data from local file/api call to chucknorris
-
-Dependencies 
-
-Basic Linux Commands
-
-Basic Git Commands with Examples
-
-JavaScript Tutorial
+- Basic Linux Commands
+- Basic Git Commands with Examples
+- JavaScript Tutorial
 
