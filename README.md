@@ -25,7 +25,7 @@
 
 ### Bonus Task
 1. Create a new function to get a joke from https://api.chucknorris.io/jokes/random
-2. Display the joke inside the index.html file
+2. Display the joke under the buttons in the webpage
                                                               fyi, use get not post.
 
 ## Data Sources
