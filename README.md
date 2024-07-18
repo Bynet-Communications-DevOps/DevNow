@@ -37,6 +37,6 @@
 - [HTML Basics](https://www.w3schools.com/html/html_basic.asp)
 
 
--[If you need more Linux commands](https://letmegooglethat.com/?q=Basic+Linux+Commands)
--[If you need more Git commands](https://letmegooglethat.com/?q=Basic+Git+Commands)
--[If you need kmowlage about anything](https://www.google.com/)
+- [If you need more Linux commands](https://letmegooglethat.com/?q=Basic+Linux+Commands)
+- [If you need more Git commands](https://letmegooglethat.com/?q=Basic+Git+Commands)
+- [If you need knowledge about anything](https://www.google.com/)
