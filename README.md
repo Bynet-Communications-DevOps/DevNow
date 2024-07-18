@@ -1,4 +1,4 @@
-# DevNow
+# LOL - you really Belived
 # DevNow Hackathon Repository
 
 ## Tasks
