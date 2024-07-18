@@ -31,8 +31,12 @@
 
 ## Data Sources
 
-- Basic Linux Commands
-- Basic Git Commands with Examples
-- JavaScript Tutorial
-- HTML Basics
+- [Basic Linux Commands](https://www.geeksforgeeks.org/basic-linux-commands/)
+- [Basic Git Commands with Examples](https://www.geeksforgeeks.org/basic-git-commands-with-examples/)
+- [JavaScript Tutorial](https://www.w3schools.com/js/)
+- [HTML Basics](https://www.w3schools.com/html/html_basic.asp)
 
+
+-[If you need more Linux commands](https://letmegooglethat.com/?q=Basic+Linux+Commands)
+-[If you need more Git commands](https://letmegooglethat.com/?q=Basic+Git+Commands)
+-[If you need kmowlage about anything](https://www.google.com/)
