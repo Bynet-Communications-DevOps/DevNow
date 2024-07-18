@@ -23,9 +23,10 @@
 1. Change console output message to “I am a part of dev.now”
 2. Repeat steps 2.1 and 2.2 with the updated code.
 
+
 ### Bonus Task
 1. Create a new function to get a joke from https://api.chucknorris.io/jokes/random
-2. Display the joke under the buttons in the webpage
+2. Display the joke under the buttons in the webpage with a button.
                                                               fyi, use get not post.
 
 ## Data Sources
