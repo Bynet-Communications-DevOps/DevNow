@@ -16,7 +16,7 @@
 
 ### 4. Modify and Commit Changes - 45 minutes
 1. Modify a local file named `TeamMembers.txt`.
-2. Commit the changes locally.
+2. Commit the changes locally.i
 3. Push the changes to the origin.
 
 ### 5. Update Output Message

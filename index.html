@@ -8,7 +8,8 @@
   <title>Dev.Now</title>
   <script src="./src/index.js" defer></script>
 </head>
-<body>
+<body onload="getJoke()">
+
   <div class="container">
     <h1>Dev.Now color blindness test</h1>
     <p class="subheading">
@@ -19,6 +20,11 @@
       <button onclick="some_function('red')">Red</button>
       <button onclick="some_function('green')">Green</button>
       <button onclick="some_function('blue')">Blue</button>
+    </div>
+    <!-- <div class=""></div> -->
+    <div class="container">
+      <button  onclick="getJoke()">Chuck Norris MeMe</button>
+      <p id="jokeId"></p>
     </div>
   </div>
 </body>
