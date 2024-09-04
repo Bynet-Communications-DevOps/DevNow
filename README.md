@@ -12,7 +12,7 @@
 2. A file called index.js inside folder called src. Understand how to run the program.
 
 ### 3. Verify Script Output - index.js
-1. Check that the script runs, what is the output?
+1. Check that the script runs, what is the output? 
 
 ### 4. Modify and Commit Changes - 45 minutes
 1. Modify a local file named `TeamMembers.txt`.
