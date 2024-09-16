@@ -25,9 +25,9 @@
 
 
 ### Bonus Task
-1. Create a new function to get a joke from https://api.chucknorris.io/jokes/random
-2. Display the joke under the buttons in the webpage with a button.
-                                                              fyi, use get not post.
+1. Create a new button that when pressed will display the data from Images folder created in a previous task.
+2. Buttons logic is that when pressed again it will update the webpage according to the data in the folder.
+3. The data should be loaded first without pressing the button.
 
 ## Data Sources
 
