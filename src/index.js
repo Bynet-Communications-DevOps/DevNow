@@ -1,3 +1,4 @@
+
 console.log('Welcome to Dev.Now color blidness test');
 
 function some_function(color) {
@@ -5,3 +6,4 @@ function some_function(color) {
   const circle = document.getElementById('circleID');
   circle.style = `background-color:${color}`;
 }
+
